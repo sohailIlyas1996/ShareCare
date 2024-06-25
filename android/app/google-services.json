@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "824880938537",
+    "firebase_url": "https://sharecare-18534-default-rtdb.firebaseio.com",
+    "project_id": "sharecare-18534",
+    "storage_bucket": "sharecare-18534.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824880938537:android:d8c795759710b96746a638",
+        "android_client_info": {
+          "package_name": "com.example.share_care"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcIIuNApDUtpyoxaE3oNSTfJp1dv4erxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
